@@ -3,4 +3,5 @@ gitの練習中
 git add
 git commit
 git remove
-gti status
+git status
+git diff
